@@ -17,3 +17,11 @@ I work on machine learning, deep learning and data-driven applications.
 
 ### 📂 On this GitHub
 You’ll find projects in AI, data science and software engineering from my studies and personal work.
+- [repo-1](link) – breve descrizione
+- [repo-2](link) – breve descrizione
+- [repo-3](link) – breve descrizione
+
+## 📫 Contacts
+- Email: simone.logatto@outlook.com
+- LinkedIn: [link](https://www.linkedin.com/in/simonelogatto/)
+- GitHub: @SimoneLoGatto2000
