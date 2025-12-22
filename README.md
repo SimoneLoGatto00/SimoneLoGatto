@@ -23,5 +23,5 @@ You’ll find projects in AI, data science and software engineering from my stud
 
 ## 📫 Contacts
 - Email: simone.logatto@outlook.com
-- LinkedIn: [link](https://www.linkedin.com/in/simonelogatto/)
+- LinkedIn: [Simone Lo Gatto](https://www.linkedin.com/in/simonelogatto/)
 - GitHub: @SimoneLoGatto2000
