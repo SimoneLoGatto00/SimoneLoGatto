@@ -1,14 +1,14 @@
 # Hi, I'm Simone Lo Gatto 👋
-🎓 Bachelor's degree in Computer Science Engineering from the University of Calabria (2022).
-🎓 Master's degree in Computer Science Engineering, specialized in Artificial Intelligence from the Politecnico di Milano (2025).
-💻 Computer Engineer & AI Scientist from Politecnico di Milano  
+
+- 🎓 Bachelor's degree in Computer Engineering from the University of Calabria (2022).
+- 🎓 Master's degree in Computer Science and Engineering, specialized in Artificial Intelligence from the Politecnico di Milano (2025).
 
 ### 🔍 Interests
 - 🤖 Machine learning & deep learning
 - 🗣️ Natural Language Processing
 - 👁️ Computer vision 
 - 📊 Data science and MLOps
-- 
+
 ## 📫 Contacts
 - ✉️ Email: simone.logatto@outlook.com
 - 🔗 LinkedIn: [Simone Lo Gatto](https://www.linkedin.com/in/simonelogatto/)
